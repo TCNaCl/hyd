@@ -1,6 +1,8 @@
 import numpy as np
 import wordninja
 
+#修改一下
+
 def alpha(cipher): #预处理,去掉空格以及回车 
     c = ''
     for i in range(len(cipher)):
